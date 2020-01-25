@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/carsultant/static/css/main.145e8c7e.chunk.css",
+    "main.js": "/carsultant/static/js/main.ad7abfb8.chunk.js",
+    "main.js.map": "/carsultant/static/js/main.ad7abfb8.chunk.js.map",
+    "runtime-main.js": "/carsultant/static/js/runtime-main.e91bab65.js",
+    "runtime-main.js.map": "/carsultant/static/js/runtime-main.e91bab65.js.map",
+    "static/js/2.7a18c7a1.chunk.js": "/carsultant/static/js/2.7a18c7a1.chunk.js",
+    "static/js/2.7a18c7a1.chunk.js.map": "/carsultant/static/js/2.7a18c7a1.chunk.js.map",
+    "index.html": "/carsultant/index.html",
+    "precache-manifest.217bc80299e9347a1fc63ae6d259a4f3.js": "/carsultant/precache-manifest.217bc80299e9347a1fc63ae6d259a4f3.js",
+    "service-worker.js": "/carsultant/service-worker.js",
+    "static/css/main.145e8c7e.chunk.css.map": "/carsultant/static/css/main.145e8c7e.chunk.css.map",
+    "static/js/2.7a18c7a1.chunk.js.LICENSE": "/carsultant/static/js/2.7a18c7a1.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e91bab65.js",
+    "static/js/2.7a18c7a1.chunk.js",
+    "static/css/main.145e8c7e.chunk.css",
+    "static/js/main.ad7abfb8.chunk.js"
+  ]
+}

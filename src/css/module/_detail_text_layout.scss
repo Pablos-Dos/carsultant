@@ -1,0 +1,21 @@
+// Layout der Texte für Detailansicht
+
+.display-3 {
+  @include padding(5% 5% 10% 5%);
+}
+
+.text_detail {
+  @include padding(null null null 10%);
+}
+
+// Resize Text
+@media (max-width: 767.98px) {
+  .display-3 {
+    @include padding(5% 5% 10% 5%);
+    font-size: 160%;
+  }
+  .text_detail {
+    @include padding(null 10% null null);
+    font-size: 100%;
+  }
+}

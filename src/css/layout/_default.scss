@@ -1,0 +1,28 @@
+// Basis-Layout
+
+html .header {
+  // Nimmt die Farbe nicht an!
+  background-color: shade(white, 25%);
+  z-index: 10;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
+.navbar-brand{
+  z-index: 20;
+
+  @include margin(null null null null);
+  width: 100%;
+}
+
+button {
+  filter: drop-shadow(1px 1px 8px);
+}
+
+footer{
+  @include margin(20px null null null);
+  background-color: shade(white, 10%);
+}
+
+

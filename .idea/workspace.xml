@@ -1,10 +1,292 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6e78952-1cee-4501-a873-0d8a400d5fce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/0b5d0867c27e26ebf3ff53adae590d5077f0eac0/_default.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/0fb799d259178a98633775a82fe9e53408007f22/_default.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/2fcfc916026716f99673628a2558d56c9fb45e0b/_contains-falsy.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/2fcfc916026716f99673628a2558d56c9fb45e0b/_contains.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/2fcfc916026716f99673628a2558d56c9fb45e0b/_is-color.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/2fcfc916026716f99673628a2558d56c9fb45e0b/_is-length.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/2fcfc916026716f99673628a2558d56c9fb45e0b/_is-number.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/2fcfc916026716f99673628a2558d56c9fb45e0b/_is-size.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/325d95a5f61ec2149cf4f0adef1009b3e43f5a1d/_header_picture.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/325d95a5f61ec2149cf4f0adef1009b3e43f5a1d/_navigation.sassc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/325d95a5f61ec2149cf4f0adef1009b3e43f5a1d/_navigation.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/325d95a5f61ec2149cf4f0adef1009b3e43f5a1d/event_entry.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/325d95a5f61ec2149cf4f0adef1009b3e43f5a1d/navigation.sassc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/3c960cd6c30ac6e7369f2ac773eb69ee5a247570/_neat.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/3d0dd515b07fd31b7acc67c7607f445ab5146591/_settings.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/44f0db0f565aac68c974246fc0defad0542d0680/_base.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/44f0db0f565aac68c974246fc0defad0542d0680/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/44f0db0f565aac68c974246fc0defad0542d0680/_forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/44f0db0f565aac68c974246fc0defad0542d0680/_layout.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/44f0db0f565aac68c974246fc0defad0542d0680/_lists.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/44f0db0f565aac68c974246fc0defad0542d0680/_media.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/44f0db0f565aac68c974246fc0defad0542d0680/_tables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/44f0db0f565aac68c974246fc0defad0542d0680/_typography.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/44f0db0f565aac68c974246fc0defad0542d0680/_variables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_border-color.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_border-radius.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_border-style.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_border-width.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_clearfix.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_contrast-switch.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_ellipsis.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_font-face.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_font-stacks.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_hide-text.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_hide-visually.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_margin.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_modular-scale.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_overflow-wrap.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_padding.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_position.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_prefixer.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_shade.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_size.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_strip-unit.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_text-inputs.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_timing-functions.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_tint.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_triangle.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4eebc6976b6697873f02f6879894b250f9a7790f/_value-prefixer.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/4f80ac4e70f2c71212aa48e89da2f7e74672f4c0/_default.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/6c869b256d5a37ab22bd77e06aa78368003a5831/_bourbon.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/70e781f61e450050f5061431e224a98ebcdcb246/_assign-inputs.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/70e781f61e450050f5061431e224a98ebcdcb246/_compact-shorthand.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/70e781f61e450050f5061431e224a98ebcdcb246/_contrast-ratio.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/70e781f61e450050f5061431e224a98ebcdcb246/_directional-property.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/70e781f61e450050f5061431e224a98ebcdcb246/_fetch-bourbon-setting.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/70e781f61e450050f5061431e224a98ebcdcb246/_font-source-declaration.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/70e781f61e450050f5061431e224a98ebcdcb246/_gamma.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/70e781f61e450050f5061431e224a98ebcdcb246/_lightness.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/70e781f61e450050f5061431e224a98ebcdcb246/_unpack-shorthand.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/73c6281529eccfe5c6ddc16b527743e3ee99eff9/_neat.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/7765cab211f25a3f2652fc9adf79875122b27109/_buttons-list.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/7765cab211f25a3f2652fc9adf79875122b27109/_scales.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/7765cab211f25a3f2652fc9adf79875122b27109/_text-inputs-list.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/9e9407f7aaca363c9f01e0ed3eac1f4b49e80497/_grid-collapse.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/9e9407f7aaca363c9f01e0ed3eac1f4b49e80497/_grid-column.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/9e9407f7aaca363c9f01e0ed3eac1f4b49e80497/_grid-container.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/9e9407f7aaca363c9f01e0ed3eac1f4b49e80497/_grid-media.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/9e9407f7aaca363c9f01e0ed3eac1f4b49e80497/_grid-push.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/9e9407f7aaca363c9f01e0ed3eac1f4b49e80497/_grid-shift.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/9e9407f7aaca363c9f01e0ed3eac1f4b49e80497/_grid-visual.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/a45005722a5ce1dcf3fc3506709071dc9eb89467/_settings.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/ae4fe910339eee3fb074cf8ea467b2280a02431a/_grid-collapse.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/ae4fe910339eee3fb074cf8ea467b2280a02431a/_grid-column.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/ae4fe910339eee3fb074cf8ea467b2280a02431a/_grid-container.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/ae4fe910339eee3fb074cf8ea467b2280a02431a/_grid-media.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/ae4fe910339eee3fb074cf8ea467b2280a02431a/_grid-push.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/ae4fe910339eee3fb074cf8ea467b2280a02431a/_grid-shift.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/ae4fe910339eee3fb074cf8ea467b2280a02431a/_grid-visual.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/b13cb690a295676af3faa87300905d2c5a130b14/_variable.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/b13cb690a295676af3faa87300905d2c5a130b14/main.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/b15495860fec869b4f078e75123efc486ae01544/_neat-append-grid-visual.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/b15495860fec869b4f078e75123efc486ae01544/_neat-column-default.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/b15495860fec869b4f078e75123efc486ae01544/_neat-column-ratio.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/b15495860fec869b4f078e75123efc486ae01544/_neat-column-width.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/b15495860fec869b4f078e75123efc486ae01544/_neat-float-direction.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/b15495860fec869b4f078e75123efc486ae01544/_neat-merge-defaults.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/b15495860fec869b4f078e75123efc486ae01544/_neat-opposite-direction.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/b15495860fec869b4f078e75123efc486ae01544/_neat-parse-columns.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/b15495860fec869b4f078e75123efc486ae01544/_neat-parse-media.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/b15495860fec869b4f078e75123efc486ae01544/_retrieve-neat-settings.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/b3e26aeb384a407aa9097a4a2c500ebe92872fb7/_default.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/cdea1b37c43ddf6c522f41c39dfd4a474f18d17f/_neat-append-grid-visual.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/cdea1b37c43ddf6c522f41c39dfd4a474f18d17f/_neat-column-default.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/cdea1b37c43ddf6c522f41c39dfd4a474f18d17f/_neat-column-ratio.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/cdea1b37c43ddf6c522f41c39dfd4a474f18d17f/_neat-column-width.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/cdea1b37c43ddf6c522f41c39dfd4a474f18d17f/_neat-float-direction.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/cdea1b37c43ddf6c522f41c39dfd4a474f18d17f/_neat-merge-defaults.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/cdea1b37c43ddf6c522f41c39dfd4a474f18d17f/_neat-opposite-direction.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/cdea1b37c43ddf6c522f41c39dfd4a474f18d17f/_neat-parse-columns.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/cdea1b37c43ddf6c522f41c39dfd4a474f18d17f/_neat-parse-media.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/cdea1b37c43ddf6c522f41c39dfd4a474f18d17f/_retrieve-neat-settings.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/e6898904f5067eb8da54b14ef9677690b922b39c/_border.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/e6898904f5067eb8da54b14ef9677690b922b39c/_button.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/e6898904f5067eb8da54b14ef9677690b922b39c/_detail_header_picture.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/e6898904f5067eb8da54b14ef9677690b922b39c/_detail_text_layout.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/e6898904f5067eb8da54b14ef9677690b922b39c/_font.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/e6898904f5067eb8da54b14ef9677690b922b39c/_footer.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/e6898904f5067eb8da54b14ef9677690b922b39c/_form.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/e6898904f5067eb8da54b14ef9677690b922b39c/_header.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/e6898904f5067eb8da54b14ef9677690b922b39c/_navigation.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/e6898904f5067eb8da54b14ef9677690b922b39c/event_entry.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/f821dab246f02af5e602f540a30144b53b244fb5/main.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/f821dab246f02af5e602f540a30144b53b244fb5/normalize.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.sass-cache/fd3dab78864e063c8f89d7a4f79884ab5cc9c0fe/_settings.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/EventDetailView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/EventListView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/_variable.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/bitters/core/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/bitters/core/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/bitters/core/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/bitters/core/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/bitters/core/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/bitters/core/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/bitters/core/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/bitters/core/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/bitters/core/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/module/_detail_header_picture.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/module/_detail_text_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/module/_navigation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/module/event_entry.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/theme/_default.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/mercedes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="calendar_offline_prep_carsultant" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X1DsuYsucgxkS2YJacIy1udUzi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="npm.npm start" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6e78952-1cee-4501-a873-0d8a400d5fce" name="Default Changelist" comment="" />
+      <created>1580204917095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580204917095</updated>
+      <workItem from="1580204923237" duration="11953000" />
+      <workItem from="1580230950248" duration="2308000" />
+      <workItem from="1580233843310" duration="245000" />
+      <workItem from="1580234288212" duration="13396000" />
+      <workItem from="1580287359256" duration="33081000" />
+      <workItem from="1580334183515" duration="256000" />
+      <workItem from="1580334576712" duration="106000" />
+      <workItem from="1580335135557" duration="970000" />
+      <workItem from="1580377276457" duration="286000" />
+      <workItem from="1580403630795" duration="638000" />
+      <workItem from="1580404273314" duration="862000" />
+      <workItem from="1581249742396" duration="347000" />
+      <workItem from="1581336926621" duration="140000" />
+      <workItem from="1581337143767" duration="2697000" />
+      <workItem from="1581425446970" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580290324671">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1580290324671" />
+    <state x="364" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580321810046">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="364" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1580321810046" />
+    <state x="328" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581337049304">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="328" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.800@0.0.1280.800" timestamp="1581337049304" />
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580329013606">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1580329013606" />
+    <state x="254" y="185" key="EditFileWatcherDialog" timestamp="1580251995089">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="254" y="185" key="EditFileWatcherDialog/0.0.1280.800@0.0.1280.800" timestamp="1580251995089" />
+    <state width="1259" height="205" key="GridCell.Tab.0.bottom" timestamp="1581251042319">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="205" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1581251042319" />
+    <state width="1259" height="205" key="GridCell.Tab.0.center" timestamp="1581251042318">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="205" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1581251042318" />
+    <state width="1259" height="205" key="GridCell.Tab.0.left" timestamp="1581251042318">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="205" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1581251042318" />
+    <state width="1259" height="205" key="GridCell.Tab.0.right" timestamp="1581251042319">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="205" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1581251042319" />
+    <state x="149" y="39" key="SettingsEditor" timestamp="1580290479019">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="149" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1580290479019" />
   </component>
 </project>

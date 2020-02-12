@@ -1,0 +1,35 @@
+// Big Header Picture
+.masthead-detail {
+  height: 80vh;
+  min-height: 300px;
+  // Referenziert auf Datei ausgehend von Pfad der kompilierten App.css
+  // background-image: url('img/mercedes.png');
+  background-image: url('https://de.drivenluxurycars.com/images/7003/166/audi-pb18-e-tron.jpg');
+}
+
+// über viele div´s. Würde sonst die <p>-Inhalte aus Event.js löschen.
+.masthead-detail > div > div > div > h1{
+  opacity: 0;
+  color: white;
+}
+.masthead-detail > div > div > div > h1 ~ p{
+  opacity: 0;
+  color: white;
+}
+
+// Resize IMG
+@media (max-width: 767.98px) {
+  .masthead-detail {
+    background-image: url('https://de.drivenluxurycars.com/images/7003/166/audi-pb18-e-tron.jpg');
+    // width:540px; /* you can use % */
+    zoom: 30%;
+    height: 20%;
+    margin-top: 15%;
+  }
+}
+
+
+
+/*body {
+  background: #0E4749;
+}*/

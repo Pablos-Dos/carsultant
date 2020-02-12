@@ -1,0 +1,63 @@
+// Spezifischer von oben nach unten
+
+
+
+.nav-bar {
+  background-color: #2A2A72;
+  z-index: 5;
+}
+
+
+.card {
+    @include margin(20px 25px 20px 25px);
+    z-index: 1;
+
+}
+/*
+
+.card-cascade card{
+  @include size(100px);
+}
+  // background: pink;
+
+.body{
+  background: #0E4749;
+}
+
+  // +border-color(#a60b55 #76cd9c null #e8ae1a);
+  // @include size(100px);
+
+.card-cascade card{
+  @include border-color(#a60b55 #76cd9c null #e8ae1a);
+}
+
+.font {
+  color: #2A2A72;
+}
+
+nav {
+
+}
+
+.header ul {
+  display: flex;
+  @include grid-column(4);
+  @include grid-visual;
+
+}
+
+.header ul li {
+  @include border-color(#a60b55 #76cd9c null #e8ae1a);
+  color: red;
+
+  justify-content: space-between;
+  // +size(100px);
+};
+
+
+
+.header {
+
+  color: red;
+  // +size(100px);
+};*/

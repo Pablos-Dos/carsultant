@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://Pablos-Dos.github.io/carsultant/",
+  "predeploy": "yarn run build",
+  "deploy": "gh-pages -d build",
   "proxy": "http://localhost:4001",
   "dependencies": {
     "@material-ui/core": "^4.9.0",
